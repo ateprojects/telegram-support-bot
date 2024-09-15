@@ -1,7 +1,7 @@
 # bot settings
-bot_token: 'YOUR_BOT_TOKEN' # support bot token
-staffchat_id: 'SUPERGROUP_CHAT_ID' # eg. -123456789
-owner_id: 'YOUR_TELEGRAM_ID'
+bot_token: '6683201656:AAHusxMYBKwuxuNNeJI0puXMsogCJVe-jYQ' # support bot token
+staffchat_id: '-2189557114' # eg. -123456789
+owner_id: '6507365666'
 spam_time: 300000 # time (in MS) in which user may send 5 messages
 spam_cant_msg: 5
 
@@ -28,8 +28,8 @@ dev_mode: true # Enable/disable dev mode
 
 # customize your language
 language:
-  startCommandText: 'Welcome in our support chat! Ask your question here.'
-  faqCommandText: 'Get this bot at: [github.com](https://github.com/bostrot/telegram-support-bot)'
+  startCommandText: 'bienvenido a ate guatemala como puedo ayudarte el dia de hoy...'
+  faqCommandText: 'ooo'
   helpCommandText: "*Available commands:* /help /faq /id"
   helpCommandStaffText: "*Available commands:*\n
     /start - Get a little introduction \n
